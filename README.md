@@ -1,5 +1,6 @@
 # FriendlyChat
-
+It is a social media app. It is a smart and secure communication
+tool build for teams.
 
 ![WhatsApp Image 2021-07-02 at 9 04 46 PM](https://user-images.githubusercontent.com/56055918/124307013-d1fb3780-db84-11eb-8bc1-fcdbadd127c3.jpeg)
 
