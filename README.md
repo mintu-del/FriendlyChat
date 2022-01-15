@@ -11,6 +11,3 @@ tool build for teams.
 ![unnamed (1) (3)](https://user-images.githubusercontent.com/56055918/149624836-862937cc-53c6-4999-b6dd-d4b04c59ba71.jpg)
 
 ![WhatsApp Image 2021-07-02 at 9 05 09 PM](https://user-images.githubusercontent.com/56055918/124306971-c3148500-db84-11eb-97c0-ca1abc70dfb1.jpeg)
-
-![WhatsApp Image 2021-07-02 at 9 08 31 PM](https://user-images.githubusercontent.com/56055918/124306997-cdcf1a00-db84-11eb-8e96-c65327050172.jpeg)
-
