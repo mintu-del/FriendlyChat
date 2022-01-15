@@ -8,7 +8,7 @@ tool build for teams.
 
 ![WhatsApp Image 2021-07-02 at 9 07 56 PM](https://user-images.githubusercontent.com/56055918/124306989-c9a2fc80-db84-11eb-920c-39e107710dbf.jpeg)
 
-![unnamed (1) (2)](https://user-images.githubusercontent.com/56055918/149624791-1a44e16d-2e87-48d2-bf66-5b46600dad69.jpg)
+![unnamed (1) (3)](https://user-images.githubusercontent.com/56055918/149624836-862937cc-53c6-4999-b6dd-d4b04c59ba71.jpg)
 
 ![WhatsApp Image 2021-07-02 at 9 05 09 PM](https://user-images.githubusercontent.com/56055918/124306971-c3148500-db84-11eb-97c0-ca1abc70dfb1.jpeg)
 
